@@ -1,11 +1,8 @@
 # Hi, I'm Marlene 👋
 
-UX/UI Designer & Frontend Developer based in Sydney, Australia.
-
-I bridge the gap between design and development, from Figma mockups to pixel-perfect, responsive interfaces.
+UX/UI Designer & Frontend Developer based in Sydney, Australia. I bridge the gap between design and development, from Figma mockups to pixel-perfect, responsive interfaces.
 
 🎨 Design: Figma, UX Research, Prototyping
-
 💻 Code: HTML, CSS, JavaScript, Angular, React, Claude, Lovable
 
 📍 Open to opportunities in Sydney
