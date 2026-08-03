@@ -1,14 +1,38 @@
-# Hi, I'm Marlene 👋
+### 👋 Hi, I'm Marlene
 
-UX/UI Designer & Frontend Developer based in Sydney, Australia. I bridge the gap between design and development, from Figma mockups to pixel-perfect, responsive interfaces.
+**UX/UI Designer & Frontend Developer** based in Sydney, Australia 🇦🇺
 
-🎨 Design: Figma, UX Research, Prototyping
+I bridge the gap between design and code — turning Figma concepts into pixel-perfect, responsive web experiences. I care deeply about how things look *and* how they work.
 
-💻 Code: HTML, CSS, JavaScript, Angular, React, Claude, Lovable
+---
 
-📍 Open to opportunities in Sydney
+### 🎨 Design
+`Figma` `UX Research` `Prototyping` `Wireframing` `Design Systems`
 
-🔗 Portfolio: [marlene.dev](comming soon)
+### 💻 Code
+`HTML5` `CSS3` `JavaScript` `React` `Responsive Design`
+
+### 🛠 Tools
+`VS Code` `GitHub` `Notion` `Lovable`
+
+---
+
+### 🚀 Featured Projects
+
+🏥 **[1800MEDICARE App Redesign](#)**
+Full UX case study — user research, persona creation, Figma prototype & responsive frontend implementation
+
+💍 **[Angela & Harold — Wedding Invitation](https://www.angelaandharold.com)**
+Custom web invitation with travel theme and multi-section layout. Live at angelaandharold.com
+
+🌐 **[Personal Portfolio](#)**
+Designed and built from scratch in HTML/CSS/JS — featuring interactive components and UX case studies
+
+---
+
+📫 marlenei.rouvier@gmail.com  ·  🔗 [Portfolio](#)  ·  💼 [LinkedIn](https://www.linkedin.com/in/marlenerouvier/)
+
+*Open to full-time and freelance opportunities in Sydney 🌟*
 
 <!---
 MarleneRouvier/MarleneRouvier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
